@@ -473,35 +473,35 @@
         }
 
         #endregion
-        private System.Windows.Forms.TextBox addressTextBox;
-        private System.Windows.Forms.TextBox phoneNumberTextBox;
-        private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.TextBox usernameTextBox;
-        private System.Windows.Forms.Label label6;
-        private System.Windows.Forms.TextBox nameTextBox;
-        private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.TextBox passwordTextBox;
-        private System.Windows.Forms.TextBox emailTextBox;
-        private System.Windows.Forms.TextBox surnameTextBox;
-        private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Button changeUserInfoButton;
-        private System.Windows.Forms.PictureBox userPhotoPictureBox;
-        private System.Windows.Forms.Panel headerPanel;
-        private System.Windows.Forms.Label appNameLabel;
-        private System.Windows.Forms.Button backButton;
-        private System.Windows.Forms.Button btnAlt;
-        private System.Windows.Forms.Button closeButton;
-        private System.Windows.Forms.Label salaryLabel;
-        private System.Windows.Forms.Button addPhotoButton;
-        private System.Windows.Forms.Panel usernameLinePanel;
-        private System.Windows.Forms.Panel nameLinePanel;
-        private System.Windows.Forms.Panel surnameLinePanel;
-        private System.Windows.Forms.Panel emailLinePanel;
-        private System.Windows.Forms.Panel passwordLinePanel;
-        private System.Windows.Forms.Panel phoneLinePanel;
-        private System.Windows.Forms.Panel addressLinePanel;
+        private System.Windows.Forms.TextBox addressTextBox; // TextBox for address input
+        private System.Windows.Forms.TextBox phoneNumberTextBox; // TextBox for phone number input
+        private System.Windows.Forms.Label label8; // Label for Address
+        private System.Windows.Forms.Label label7; // Label for Phone Number
+        private System.Windows.Forms.TextBox usernameTextBox; // TextBox for username input
+        private System.Windows.Forms.Label label6; // Label for Username
+        private System.Windows.Forms.TextBox nameTextBox; // TextBox for name input
+        private System.Windows.Forms.Label label5; // Label for Name
+        private System.Windows.Forms.TextBox passwordTextBox; // TextBox for password input
+        private System.Windows.Forms.TextBox emailTextBox; // TextBox for email input
+        private System.Windows.Forms.TextBox surnameTextBox; // TextBox for surname input
+        private System.Windows.Forms.Label label4; // Label for Surname
+        private System.Windows.Forms.Label label3; // Label for Email
+        private System.Windows.Forms.Label label2; // Label for Password
+        private System.Windows.Forms.Button changeUserInfoButton; // Button to change/save user information
+        private System.Windows.Forms.PictureBox userPhotoPictureBox; // PictureBox to display the user's photo
+        private System.Windows.Forms.Panel headerPanel; // Panel for the form's header bar
+        private System.Windows.Forms.Label appNameLabel; // Label for the application name in the header
+        private System.Windows.Forms.Button backButton; // Button to go back
+        private System.Windows.Forms.Button btnAlt; // Button to minimize the window
+        private System.Windows.Forms.Button closeButton; // Button to close the window
+        private System.Windows.Forms.Label salaryLabel; // Label for Salary (or a related field, context needed)
+        private System.Windows.Forms.Button addPhotoButton; // Button to add or change photo
+        private System.Windows.Forms.Panel usernameLinePanel; // Underline panel for the Username TextBox
+        private System.Windows.Forms.Panel nameLinePanel; // Underline panel for the Name TextBox
+        private System.Windows.Forms.Panel surnameLinePanel; // Underline panel for the Surname TextBox
+        private System.Windows.Forms.Panel emailLinePanel; // Underline panel for the Email TextBox
+        private System.Windows.Forms.Panel passwordLinePanel; // Underline panel for the Password TextBox
+        private System.Windows.Forms.Panel phoneLinePanel; // Underline panel for the Phone Number TextBox
+        private System.Windows.Forms.Panel addressLinePanel; // Underline panel for the Address TextBox
     }
 }
