@@ -1,0 +1,766 @@
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\ClosedXML.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\ExcelNumberFormat.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\Irony.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\RestSharp.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\SixLabors.Fonts.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\System.CodeDom.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\System.IO.Packaging.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\System.Text.Json.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\System.ValueTuple.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\XLParser.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\ClosedXML.xml
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\ExcelNumberFormat.xml
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\RestSharp.xml
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\SixLabors.Fonts.xml
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\System.CodeDom.xml
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\System.IO.Packaging.xml
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\System.Text.Json.xml
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\bin\Debug\System.ValueTuple.xml
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\obj\Debug\UserManagementSystem.csproj.AssemblyReference.cache
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Anasayfa.resources
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.formKayıt.resources
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FormMenu.resources
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FormNotes.resources
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FormPhoneBook.resources
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FormProfile.resources
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FormReminder.resources
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.FormUserManegement.resources
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\obj\Debug\salary_calculate.FormSalaryCalculator.resources
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\obj\Debug\UserManagementSystem.csproj.GenerateResource.cache
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\obj\Debug\UserManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\obj\Debug\UserMana.7307BBDB.Up2Date
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\WindowsFormsApp2.exe
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\ClosedXML.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\ExcelNumberFormat.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\Irony.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\RestSharp.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\SixLabors.Fonts.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\System.Buffers.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\System.CodeDom.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\System.IO.Packaging.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\System.Memory.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\System.Text.Json.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\System.ValueTuple.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\XLParser.dll
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\ClosedXML.xml
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\ExcelNumberFormat.xml
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\RestSharp.xml
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\SixLabors.Fonts.xml
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\System.Buffers.xml
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\System.CodeDom.xml
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\System.IO.Packaging.xml
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\System.Memory.xml
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\System.Text.Json.xml
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\bin\Debug\System.ValueTuple.xml
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.AssemblyReference.cache
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\obj\Debug\WindowsFormsApp2.Anasayfa.resources
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\obj\Debug\WindowsFormsApp2.formKayıt.resources
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormMenu.resources
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormNotes.resources
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormPhoneBook.resources
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormProfile.resources
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormReminder.resources
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormUserManegement.resources
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\obj\Debug\salary_calculate.FormSalaryCalculator.resources
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.GenerateResource.cache
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\obj\Debug\UserMana.7307BBDB.Up2Date
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\obj\Debug\WindowsFormsApp2.exe
+C:\Users\yusuf eren hoşgör\source\repos\C#_calışmalarım\UserManagementSystem\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\obj\Debug\WindowsFormsApp2.exe
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\WindowsFormsApp2.exe
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\ClosedXML.dll
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\ExcelNumberFormat.dll
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\Irony.dll
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\RestSharp.dll
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\SixLabors.Fonts.dll
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\System.CodeDom.dll
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\System.IO.Packaging.dll
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\System.Text.Json.dll
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\System.ValueTuple.dll
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\XLParser.dll
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\ClosedXML.xml
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\ExcelNumberFormat.xml
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\RestSharp.xml
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\SixLabors.Fonts.xml
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\System.CodeDom.xml
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\System.IO.Packaging.xml
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\System.Text.Json.xml
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\bin\Debug\System.ValueTuple.xml
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\obj\Debug\WindowsFormsApp2.Anasayfa.resources
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\obj\Debug\WindowsFormsApp2.formKayıt.resources
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormMenu.resources
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormNotes.resources
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormPhoneBook.resources
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormProfile.resources
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormReminder.resources
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormUserManegement.resources
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\obj\Debug\salary_calculate.FormSalaryCalculator.resources
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.GenerateResource.cache
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\OOP-Proje\UserManagementSystem\obj\Debug\UserMana.7307BBDB.Up2Date
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\WindowsFormsApp2.exe
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\ClosedXML.dll
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\ExcelNumberFormat.dll
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\Irony.dll
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\RestSharp.dll
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\SixLabors.Fonts.dll
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\System.CodeDom.dll
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\System.IO.Packaging.dll
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\System.Text.Json.dll
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\System.ValueTuple.dll
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\XLParser.dll
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\ClosedXML.xml
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\ExcelNumberFormat.xml
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\RestSharp.xml
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\SixLabors.Fonts.xml
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\System.CodeDom.xml
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\System.IO.Packaging.xml
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\System.Text.Json.xml
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\bin\Debug\System.ValueTuple.xml
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\obj\Debug\WindowsFormsApp2.Anasayfa.resources
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\obj\Debug\WindowsFormsApp2.formKayıt.resources
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormMenu.resources
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormNotes.resources
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormPhoneBook.resources
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormProfile.resources
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormReminder.resources
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormUserManegement.resources
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\obj\Debug\salary_calculate.FormSalaryCalculator.resources
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.GenerateResource.cache
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\obj\Debug\UserMana.7307BBDB.Up2Date
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\obj\Debug\WindowsFormsApp2.exe
+C:\Users\user\Desktop\oop_denemeee\UserManagementSystem\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\ClosedXML.dll
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\Irony.dll
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\RestSharp.dll
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\System.Buffers.dll
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\System.CodeDom.dll
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\System.IO.Packaging.dll
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\System.Memory.dll
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\System.Text.Json.dll
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\System.ValueTuple.dll
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\XLParser.dll
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\ClosedXML.xml
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\RestSharp.xml
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\System.Buffers.xml
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\System.CodeDom.xml
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\System.IO.Packaging.xml
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\System.Memory.xml
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\System.Text.Json.xml
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\bin\Debug\System.ValueTuple.xml
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\obj\Debug\WindowsFormsApp2.Anasayfa.resources
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormForgetPassword.resources
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\obj\Debug\WindowsFormsApp2.formKayıt.resources
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormMenu.resources
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormNotes.resources
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormPhoneBook.resources
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormProfile.resources
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormReminder.resources
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormUserManegement.resources
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\obj\Debug\salary_calculate.FormSalaryCalculator.resources
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.GenerateResource.cache
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\obj\Debug\UserMana.7307BBDB.Up2Date
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Cuneyt\Downloads\Son_Hal\UserManagementSystem\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\safiu\Downloads\last_Version\last_Version\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.AssemblyReference.cache
+C:\Users\safiu\Downloads\last_Version\last_Version\UserManagementSystem\obj\Debug\WindowsFormsApp2.exe
+C:\Users\safiu\Downloads\last_Version\last_Version\UserManagementSystem\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.AssemblyReference.cache
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\obj\Debug\WindowsFormsApp2.exe
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\WindowsFormsApp2.exe
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\ClosedXML.dll
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\ExcelNumberFormat.dll
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\Irony.dll
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\RestSharp.dll
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\SixLabors.Fonts.dll
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\System.Buffers.dll
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\System.CodeDom.dll
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\System.IO.Packaging.dll
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\System.Memory.dll
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\System.Text.Json.dll
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\System.ValueTuple.dll
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\XLParser.dll
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\ClosedXML.xml
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\ExcelNumberFormat.xml
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\RestSharp.xml
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\SixLabors.Fonts.xml
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\System.Buffers.xml
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\System.CodeDom.xml
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\System.IO.Packaging.xml
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\System.Memory.xml
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\System.Text.Json.xml
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\bin\Debug\System.ValueTuple.xml
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\obj\Debug\WindowsFormsApp2.Anasayfa.resources
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormForgetPassword.resources
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\obj\Debug\WindowsFormsApp2.formKayıt.resources
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormMenu.resources
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormNotes.resources
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormPhoneBook.resources
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormProfile.resources
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormReminder.resources
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormUserManegement.resources
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\obj\Debug\salary_calculate.FormSalaryCalculator.resources
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.GenerateResource.cache
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\safiu\OneDrive\Masaüstü\last_Version\last_Version\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.CopyComplete
+C:\Users\user\Desktop\safi\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\safi\UserManagementSystem\obj\Debug\WindowsFormsApp2.exe
+C:\Users\user\Desktop\safi\UserManagementSystem\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\WindowsFormsApp2.exe
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\ClosedXML.dll
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\ExcelNumberFormat.dll
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\Irony.dll
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\RestSharp.dll
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\SixLabors.Fonts.dll
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\System.CodeDom.dll
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\System.IO.Packaging.dll
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\System.Text.Json.dll
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\System.ValueTuple.dll
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\XLParser.dll
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\ClosedXML.xml
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\ExcelNumberFormat.xml
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\RestSharp.xml
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\SixLabors.Fonts.xml
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\System.CodeDom.xml
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\System.IO.Packaging.xml
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\System.Text.Json.xml
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\safi\UserManagementSystem\bin\Debug\System.ValueTuple.xml
+C:\Users\user\Desktop\safi\UserManagementSystem\obj\Debug\WindowsFormsApp2.Anasayfa.resources
+C:\Users\user\Desktop\safi\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormForgetPassword.resources
+C:\Users\user\Desktop\safi\UserManagementSystem\obj\Debug\WindowsFormsApp2.formKayıt.resources
+C:\Users\user\Desktop\safi\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormMenu.resources
+C:\Users\user\Desktop\safi\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormNotes.resources
+C:\Users\user\Desktop\safi\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormPhoneBook.resources
+C:\Users\user\Desktop\safi\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormProfile.resources
+C:\Users\user\Desktop\safi\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormReminder.resources
+C:\Users\user\Desktop\safi\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormUserManegement.resources
+C:\Users\user\Desktop\safi\UserManagementSystem\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\user\Desktop\safi\UserManagementSystem\obj\Debug\salary_calculate.FormSalaryCalculator.resources
+C:\Users\user\Desktop\safi\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.GenerateResource.cache
+C:\Users\user\Desktop\safi\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\safi\UserManagementSystem\obj\Debug\UserMana.7307BBDB.Up2Date
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\WindowsFormsApp2.exe
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\ClosedXML.dll
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\ExcelNumberFormat.dll
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\Irony.dll
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\RestSharp.dll
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\SixLabors.Fonts.dll
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\System.CodeDom.dll
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\System.IO.Packaging.dll
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\System.Text.Json.dll
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\System.ValueTuple.dll
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\XLParser.dll
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\ClosedXML.xml
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\ExcelNumberFormat.xml
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\RestSharp.xml
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\SixLabors.Fonts.xml
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\System.CodeDom.xml
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\System.IO.Packaging.xml
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\System.Text.Json.xml
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\UserManagementSystem\bin\Debug\System.ValueTuple.xml
+C:\Users\user\Desktop\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\UserManagementSystem\obj\Debug\WindowsFormsApp2.Anasayfa.resources
+C:\Users\user\Desktop\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormForgetPassword.resources
+C:\Users\user\Desktop\UserManagementSystem\obj\Debug\WindowsFormsApp2.formKayıt.resources
+C:\Users\user\Desktop\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormMenu.resources
+C:\Users\user\Desktop\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormNotes.resources
+C:\Users\user\Desktop\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormPhoneBook.resources
+C:\Users\user\Desktop\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormProfile.resources
+C:\Users\user\Desktop\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormReminder.resources
+C:\Users\user\Desktop\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormUserManegement.resources
+C:\Users\user\Desktop\UserManagementSystem\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\user\Desktop\UserManagementSystem\obj\Debug\salary_calculate.FormSalaryCalculator.resources
+C:\Users\user\Desktop\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.GenerateResource.cache
+C:\Users\user\Desktop\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\UserManagementSystem\obj\Debug\UserMana.7307BBDB.Up2Date
+C:\Users\user\Desktop\UserManagementSystem\obj\Debug\WindowsFormsApp2.exe
+C:\Users\user\Desktop\UserManagementSystem\obj\Debug\WindowsFormsApp2.pdb
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\WindowsFormsApp2.exe.config
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\WindowsFormsApp2.exe
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\WindowsFormsApp2.pdb
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\ClosedXML.dll
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\DocumentFormat.OpenXml.dll
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\ExcelNumberFormat.dll
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\Irony.dll
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\Newtonsoft.Json.dll
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\RestSharp.dll
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\SixLabors.Fonts.dll
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\System.Buffers.dll
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\System.CodeDom.dll
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\System.IO.Packaging.dll
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\System.Memory.dll
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\System.Text.Encodings.Web.dll
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\System.Text.Json.dll
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\System.ValueTuple.dll
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\XLParser.dll
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\ClosedXML.xml
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\DocumentFormat.OpenXml.xml
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\ExcelNumberFormat.xml
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\Newtonsoft.Json.xml
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\RestSharp.xml
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\SixLabors.Fonts.xml
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\System.Buffers.xml
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\System.CodeDom.xml
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\System.IO.Packaging.xml
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\System.Memory.xml
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\System.Text.Encodings.Web.xml
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\System.Text.Json.xml
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\bin\Debug\System.ValueTuple.xml
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.AssemblyReference.cache
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\obj\Debug\WindowsFormsApp2.Anasayfa.resources
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormForgetPassword.resources
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\obj\Debug\WindowsFormsApp2.formKayıt.resources
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormMenu.resources
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormNotes.resources
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormPhoneBook.resources
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormProfile.resources
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormReminder.resources
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormUserManegement.resources
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\obj\Debug\salary_calculate.FormSalaryCalculator.resources
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.GenerateResource.cache
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.CoreCompileInputs.cache
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\obj\Debug\UserMana.7307BBDB.Up2Date
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\obj\Debug\WindowsFormsApp2.exe
+D:\152120211104_Doğukan_Kıyıklık_Group1_LabA\UserManagementSystem\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.AssemblyReference.cache
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\obj\Debug\WindowsFormsApp2.exe
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\obj\Debug\WindowsFormsApp2.Anasayfa.resources
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormForgetPassword.resources
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\obj\Debug\WindowsFormsApp2.formKayıt.resources
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormMenu.resources
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormNotes.resources
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormPhoneBook.resources
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormProfile.resources
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormReminder.resources
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormUserManegement.resources
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\obj\Debug\salary_calculate.FormSalaryCalculator.resources
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.GenerateResource.cache
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\WindowsFormsApp2.exe
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\ClosedXML.dll
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\ExcelNumberFormat.dll
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\Irony.dll
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\RestSharp.dll
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\SixLabors.Fonts.dll
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\System.Buffers.dll
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\System.CodeDom.dll
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\System.IO.Packaging.dll
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\System.Memory.dll
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\System.Text.Json.dll
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\System.ValueTuple.dll
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\XLParser.dll
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\ClosedXML.xml
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\ExcelNumberFormat.xml
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\RestSharp.xml
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\SixLabors.Fonts.xml
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\System.Buffers.xml
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\System.CodeDom.xml
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\System.IO.Packaging.xml
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\System.Memory.xml
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\System.Text.Json.xml
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\bin\Debug\System.ValueTuple.xml
+C:\Users\furkn\OneDrive\Masaüstü\UserManagementSystem\obj\Debug\UserMana.7307BBDB.Up2Date
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\ClosedXML.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\Irony.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\RestSharp.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\System.Buffers.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\System.CodeDom.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\System.IO.Packaging.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\System.Memory.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\System.Text.Json.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\System.ValueTuple.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\XLParser.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\ClosedXML.xml
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\RestSharp.xml
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\System.Buffers.xml
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\System.CodeDom.xml
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\System.IO.Packaging.xml
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\System.Memory.xml
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\System.Text.Json.xml
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\bin\Debug\System.ValueTuple.xml
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\obj\Debug\WindowsFormsApp2.Anasayfa.resources
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormForgetPassword.resources
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\obj\Debug\WindowsFormsApp2.formKayıt.resources
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormMenu.resources
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormNotes.resources
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormPhoneBook.resources
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormProfile.resources
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormReminder.resources
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormUserManegement.resources
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\obj\Debug\salary_calculate.FormSalaryCalculator.resources
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.GenerateResource.cache
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\obj\Debug\UserMana.7307BBDB.Up2Date
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Cuneyt\Desktop\UserManagementSystem\UserManagementSystem\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\WindowsFormsApp2.exe
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\ClosedXML.dll
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\ExcelNumberFormat.dll
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\Irony.dll
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\RestSharp.dll
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\SixLabors.Fonts.dll
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.Buffers.dll
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.CodeDom.dll
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.IO.Packaging.dll
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.Memory.dll
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.Text.Json.dll
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.ValueTuple.dll
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\XLParser.dll
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\ClosedXML.xml
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\ExcelNumberFormat.xml
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\RestSharp.xml
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\SixLabors.Fonts.xml
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.Buffers.xml
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.CodeDom.xml
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.IO.Packaging.xml
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.Memory.xml
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.Text.Json.xml
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.ValueTuple.xml
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.AssemblyReference.cache
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\obj\Debug\WindowsFormsApp2.Anasayfa.resources
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormForgetPassword.resources
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\obj\Debug\WindowsFormsApp2.formKayıt.resources
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormMenu.resources
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormNotes.resources
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormPhoneBook.resources
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormProfile.resources
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormReminder.resources
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormUserManegement.resources
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\obj\Debug\salary_calculate.FormSalaryCalculator.resources
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.GenerateResource.cache
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\obj\Debug\UserMana.7307BBDB.Up2Date
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\obj\Debug\WindowsFormsApp2.exe
+C:\Users\kemal\OneDrive\Desktop\UserManagementSystem\UserManagementSystem\UserManagementSystem\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\ClosedXML.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\Irony.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\RestSharp.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.Buffers.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.CodeDom.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.IO.Packaging.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.Memory.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.Text.Json.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.ValueTuple.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\XLParser.dll
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\ClosedXML.xml
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\RestSharp.xml
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.Buffers.xml
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.CodeDom.xml
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.IO.Packaging.xml
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.Memory.xml
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.Text.Json.xml
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\bin\Debug\System.ValueTuple.xml
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\obj\Debug\WindowsFormsApp2.Anasayfa.resources
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormForgetPassword.resources
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\obj\Debug\WindowsFormsApp2.formKayıt.resources
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormMenu.resources
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormNotes.resources
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormPhoneBook.resources
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormProfile.resources
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormReminder.resources
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\obj\Debug\WindowsFormsApp2.FormUserManegement.resources
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\obj\Debug\salary_calculate.FormSalaryCalculator.resources
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.GenerateResource.cache
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\obj\Debug\UserManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\obj\Debug\UserMana.7307BBDB.Up2Date
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Cuneyt\Desktop\UserManagementSystem (1)\UserManagementSystem\UserManagementSystem\UserManagementSystem\obj\Debug\WindowsFormsApp2.pdb
